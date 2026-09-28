@@ -1,0 +1,6 @@
+{
+  "name": "pi-stats",
+  "version": "1.0.0",
+  "description": "Pi extension that shows total request time, tokens-per-second, and compaction count",
+  "keywords": ["pi-package"]
+}
